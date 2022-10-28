@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "x4a3gsBXiuFEYgLUD8gv/ix4iNAr6Z/0UQ4KNK93+4hRWq+HNu1UWnSxC7P70knH+dKYAfB35WFvTt1XC5eDyw==",
+  "success": true,
+  "projectFilePath": "/Users/elifkorkut/Documents/GitHub/ElifHilalKorkut-Week1-Homework/OwnerAPI/OwnerAPI/OwnerAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/elifkorkut/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/elifkorkut/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/elifkorkut/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/elifkorkut/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/elifkorkut/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/elifkorkut/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
